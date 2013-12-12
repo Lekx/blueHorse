@@ -27,7 +27,7 @@
         <div id="encabezado" style="width:98%;height:8%;padding:1%;clear:both;background-color:#057D9F;text-align:right;"> 
            
 
-                <img src="recursos/LogoPrincipal.png" style="height:70px;width:auto;position:absolute;top:5px;left:20px;" /> 
+                <img src="recursos/hstLogo.png" style="height:100%;width:auto;margin-left:5px;border-radius:3px;float:left;" /> 
 
 
                 Bienvenido <b>Juan Alonso Matias</b><img src="recursos/defaultUsuario.png" style="height:98%;width:auto;margin-left:20px;border-radius:3px;box-shadow:-2px -2px 10px #025167;" /> 
